@@ -1,0 +1,1 @@
+go run "d:\frp\server\main.go"
